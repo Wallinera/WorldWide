@@ -83,6 +83,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Emirhan Karagöz - [emirhan-karagoz1@hotmail.com](mailto:sancakliaykin@gmail.com)  
+Emirhan Karagöz - [emirhan-karagoz1@hotmail.com](mailto:sancakliaykin@gmail.com)
+
 Project Link: [GitHub Repository](https://github.com/Wallinera/WorldWide)
-Live Site URL: [Add live site URL here](https://space-tourism-alpha-lyart.vercel.app)
+
+Live Site URL: [worldwide.vercell.app](https://world-wide-omega.vercel.app/app/cities)
