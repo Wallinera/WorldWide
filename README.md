@@ -42,11 +42,11 @@ WorldWide is a location-based web application that lets users save, view, and ma
 
 ### Pricing Page
 
-![WorldWide Pricing Page](./preview/Pricing.PNG)
+![WorldWide Pricing Page](./preview/pricing.PNG)
 
 ### Product Page
 
-![WorldWide Product Page](./preview/Product.PNG)
+![WorldWide Product Page](./preview/product.PNG)
 
 ### Login Page
 
