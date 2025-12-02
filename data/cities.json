@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "60f3",
+      "cityName": "Bursa",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2002-11-27T22:00:00.000Z",
+      "notes": "Where I was born.",
+      "position": {
+        "lat": "40.15788524950653",
+        "lng": "29.075317382812504"
+      }
+    },
+    {
+      "id": "a47d",
+      "cityName": "Istanbul",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2025-12-02T07:51:43.062Z",
+      "notes": "Been here since 2022",
+      "position": {
+        "lat": "40.97575093157537",
+        "lng": "28.910522460937504"
+      }
+    },
+    {
+      "id": "a211",
+      "cityName": "Haskovo",
+      "country": "Bulgaria",
+      "emoji": "🇧🇬",
+      "date": "2021-04-19T07:52:22.000Z",
+      "notes": "Got my second Citizenship, I am from now  on officially an EU-Citizen ",
+      "position": {
+        "lat": "41.93088998442502",
+        "lng": "25.625610351562504"
+      }
+    },
+    {
+      "id": "dd19",
+      "cityName": "Germany",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2026-12-02T07:53:54.000Z",
+      "notes": "Hoping to move to Germany and live there for the rest of my life. Thats why I learned German.",
+      "position": {
+        "lat": "51.02757633780243",
+        "lng": "10.524902343750002"
+      }
+    }
+  ]
+}
