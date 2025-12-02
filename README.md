@@ -87,4 +87,4 @@ Emirhan Karagöz - [emirhan-karagoz1@hotmail.com](mailto:sancakliaykin@gmail.com
 
 Project Link: [GitHub Repository](https://github.com/Wallinera/WorldWide)
 
-Live Site URL: [worldwide.vercell.app](https://world-wide-omega.vercel.app/app/cities)
+Live Site URL: [worldwide.vercell.app](https://world-wide-omega.vercel.app)
